@@ -1,5 +1,13 @@
 # Jetson Xavier NX - Jetpack 5.1 Installation Guide
 
+> 1- Including the Kernel Files in Jetson OS Image
+> 
+> 
+> 2- Installing the Jetson OS
+> 
+> 3- Installing the Jetson SDK Components
+> 
+
 **Download Nvidia SDK Manager**
 
 [https://developer.nvidia.com/drive/sdk-manager](https://developer.nvidia.com/drive/sdk-manager)

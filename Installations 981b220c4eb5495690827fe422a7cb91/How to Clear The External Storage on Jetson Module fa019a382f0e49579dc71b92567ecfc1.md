@@ -1,5 +1,11 @@
 # How to Clear The External Storage on Jetson Modules
 
+> 1- How to change the Filesystem Root to internal storage?
+> 
+> 
+> 2- How to format the external storage?
+> 
+
 In this guide we will change the Filesystem Root storage from external to internal storage (eMMC). Then, we will format the external storage.
 
 Sometimes we need to re-flash (or upgrade) our Jetson modules. Using an external storage as Filesystem Root cause a few problems after doing it. We have to follow these steps below to avoid these problems.
@@ -91,3 +97,7 @@ Type the current user’s password on it.
 After a few seconds later, the external storage formatted successfully.
 
 ![https://ucarecdn.com/7636c96e-9567-4400-bfe8-2b3460c26b15/-/format/auto/-/preview/1024x1024/-/quality/lighter/16.png](https://ucarecdn.com/7636c96e-9567-4400-bfe8-2b3460c26b15/-/format/auto/-/preview/1024x1024/-/quality/lighter/16.png)
+
+### Source
+
+[How to Clear The External Storage on Jetson Modules?](https://www.forecr.io/blogs/bsp-development/how-to-clear-the-external-storage-on-jetson-modules)

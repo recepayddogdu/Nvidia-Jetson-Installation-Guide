@@ -42,7 +42,7 @@ $ sudo apt-get install libjpeg-dev
 
 ### Build *dlib* from source
 
-[dlib-19.21.tar.bz2](Dlib%20Installation%209d1214a0cba5484e8cb9c2037995142d/dlib-19.21.tar.bz2)
+[https://drive.google.com/file/d/1Bck3tXiV2Gtok-R8R0rNS40hGmsrVPo_/view?usp=share_link](https://drive.google.com/file/d/1Bck3tXiV2Gtok-R8R0rNS40hGmsrVPo_/view?usp=share_link)
 
 ```
 $ wget http://dlib.net/files/dlib-19.21.tar.bz2

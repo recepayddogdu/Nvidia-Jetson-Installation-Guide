@@ -21,3 +21,5 @@
 [****Change Root File System to M.2 SSD Directly****](Installations%20981b220c4eb5495690827fe422a7cb91/Change%20Root%20File%20System%20to%20M%202%20SSD%20Directly%206946da0eca4040529ffbb368cc3187ae.md)
 
 [****How to Apply Distro Upgrade (apt upgrade) on Jetson Modules****](Installations%20981b220c4eb5495690827fe422a7cb91/How%20to%20Apply%20Distro%20Upgrade%20(apt%20upgrade)%20on%20Jetso%2068549e38794044f98818fce4dce3cf2e.md)
+
+[****How to Install Bazel?****](Installations%20981b220c4eb5495690827fe422a7cb91/How%20to%20Install%20Bazel%206961195e4c6a48128cef5a2c771c1234.md)
