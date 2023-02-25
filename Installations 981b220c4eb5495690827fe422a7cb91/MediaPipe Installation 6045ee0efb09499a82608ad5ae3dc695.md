@@ -2,10 +2,7 @@
 
 > **************************************************************************************************************pip ile kurulduğunda virtual environment’e değil global environment’e kurulum yapılıyor. Aşağıdaki blog’da da virtual environment’e değil global environment’e kurulum yapılmış.**************************************************************************************************************
 > 
-
-> ****WHAT YOU WILL LEARN?****
-> 
-> 
+ 
 > 1. How to Download & Build MediaPipe?
 > 
 > 2. How to Install MediaPipe?
