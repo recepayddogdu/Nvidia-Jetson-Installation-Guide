@@ -1,4 +1,4 @@
-# Installations
+# Jetson Installation Guide
 
 [**Notion Pages for Jetson Installation Guide**](https://recepaydogdu.notion.site/Installations-981b220c4eb5495690827fe422a7cb91)
 
